@@ -1,0 +1,9 @@
+{
+  "name": "Recetas Mamá",
+  "short_name": "Recetas Mamá",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8f7",
+  "theme_color": "#1b6650"
+}
